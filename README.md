@@ -1,6 +1,6 @@
-# Statistical Demography Summer School at PKU, 2020
+# Statistical Demography Summer School at PKU
 
-This is the course website of the PKU summer school on **Statistical Demography**.
+This is the [course website](https://annazhang1998.github.io/PKUdmg2020/) of the PKU summer school on **Statistical Demography**.
 
 The lectures are **9:00-12:00 on July 6-17, 2020**.
 
