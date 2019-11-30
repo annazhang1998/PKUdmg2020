@@ -41,7 +41,7 @@ package
 11. Modeling mortality (Prof. Ting Li)
 12. Inferring Demographic Arrays and Demographic Accounts (Prof. Junni Zhang)
 
-## Course prerequisites:
+## Prerequisites
 
 Students are expected to have taken at least a basic first year graduate statistics sequence, and to have a basic familiarity with R. Students should bring their laptops with R installed. They are encouraged to download, install and experiment with the R packages: ``bayesTFR``, ``bayesLife``.
 
