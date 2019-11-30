@@ -17,8 +17,7 @@ Sciences. He is the leader of the [Bayesian Population research group](http://ba
 - **Junni Zhang** is an Associate Professor of Statistics, National School of Development, Peking
 University, and the coauthor of Bayesian Demographic Estimation and Forecasting (CRC
 Press, 2018).
-- **Ting Li** is an Associate Professor of Demography at the Center for Population and Develop-
-ment Studies, Renmin University of China.
+- **Ting Li** is an Associate Professor of Demography at the Center for Population and Development Studies, Renmin University of China.
 
 ## Schedule & Organization
 
