@@ -14,10 +14,10 @@ The courses will be given by [**Prof. Adrian Raftery**](https://www.stat.washing
 - **Adrian Raftery** is the Boeing International Professor of Statistics and Sociology at the
 University of Washington in Seattle, USA, and a member of the US National Academy of
 Sciences. He is the leader of the [Bayesian Population research group](http://bayespop.csss.washington.edu) that developed many of the methods to be taught in the course .
-- **Junni Zhang** is Associate Professor of Statistics, National School of Development, Peking
+- **Junni Zhang** is an Associate Professor of Statistics, National School of Development, Peking
 University, and the coauthor of Bayesian Demographic Estimation and Forecasting (CRC
 Press, 2018).
-- **Ting Li** is Associate Professor of Demography at the Center for Population and Develop-
+- **Ting Li** is an Associate Professor of Demography at the Center for Population and Develop-
 ment Studies, Renmin University of China.
 
 ## Schedule & Organization
