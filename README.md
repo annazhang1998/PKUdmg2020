@@ -43,7 +43,7 @@ package
 
 ## Prerequisites
 
-Students are expected to have taken at least a basic first year graduate statistics sequence, and to have a basic familiarity with R. Students should bring their laptops with R installed. They are encouraged to download, install and experiment with the R packages: ``bayesTFR``, ``bayesLife``.
+Students are expected to have taken at least a basic first year graduate statistics sequence, and to have a basic familiarity with R. Students should bring their laptops with R installed. They are encouraged to download, install and experiment with the R packages: ``bayesTFR``, ``bayesLife`` and ``bayesPop R``.
 
 For those who may not be familiar with **Bayesian Statistics**, you can prepare yourself with the links listed in the resource.
 
