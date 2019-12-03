@@ -27,30 +27,30 @@ labs. The computer labs give students the opportunity to put the theory into pra
 
 ## Syllabus
 
-1. Basic concepts of demography.
-2. Review of Bayesian statistics and Markov chain Monte Carlo.
-3. Introduction to probabilistic population projections
-4. Probabilistic projection of fertility
-5. Probabilistic projection of life expectancy
-6. Probabilistic Population Projection
-7. Generating and visualizing probabilistic population projections using the bayesPop R
+1. *July 6* Basic concepts of demography.
+2. *July 7* Review of Bayesian statistics and Markov chain Monte Carlo.
+3. *July 8* Introduction to probabilistic population projections
+4. *July 9* Probabilistic projection of fertility
+5. *July 10* Probabilistic projection of life expectancy
+6. *July 11* Probabilistic Population Projection
+7. *July 12* Generating and visualizing probabilistic population projections using the bayesPop R
 package
-8. Probabilistic migration projection
-9. Subnational probabilistic population projections
-10. Bayesian population reconstruction
-11. Modeling mortality (Prof. Ting Li)
-12. Inferring Demographic Arrays and Demographic Accounts (Prof. Junni Zhang)
+8. *July 13* Probabilistic migration projection
+9. *July 14* Subnational probabilistic population projections
+10. *July 15* Bayesian population reconstruction
+11. *July 16* Modeling mortality (Prof. Ting Li)
+12. *July 17* Inferring Demographic Arrays and Demographic Accounts (Prof. Junni Zhang)
 
 ## Prerequisites
 
-Students are expected to have taken at least a basic first year graduate statistics sequence, and to have a basic familiarity with R. Students should bring their laptops with R installed. They are encouraged to download, install and experiment with the R packages: ``bayesTFR``, ``bayesLife`` and ``bayesPop R``.
+Students are expected to have taken at least a basic first year graduate statistics sequence, and to have a basic familiarity with R. Students should bring their laptops with R installed. They are encouraged to download, install and experiment with the R packages: [``bayesTFR``](https://cran.r-project.org/web/packages/bayesTFR/index.html), [``bayesLife``](https://cran.r-project.org/web/packages/bayesLife/index.html) and [``bayesPop R``](https://cran.r-project.org/web/packages/bayesPop/index.html).
 
 For those who may not be familiar with **Bayesian Statistics**, you can prepare yourself with the links listed in the resource.
 
 ## Resources
 
 ### Bayesian Statistics
-- Course by [Statistical Rethinking](https://www.youtube.com/playlist?list=PLDcUM9US4XdM9_N6XUUFrhghGJ4K25bFc), [link available for mainland China IP](https://www.bilibili.com/video/av15997212?from=search&seid=2770670018250200202)
+- Course by [Statistical Rethinking](https://xcelab.net/rm/statistical-rethinking/),[videos on youtube](https://www.youtube.com/playlist?list=PLDcUM9US4XdM9_N6XUUFrhghGJ4K25bFc), [videos available for mainland China IP](https://www.bilibili.com/video/av15997212?from=search&seid=2770670018250200202)
 - [Bayesian Scientific Computing](https://www.zabaras.com/bayesiancomputing) at University of Notre Dam
 
 ### R packages
