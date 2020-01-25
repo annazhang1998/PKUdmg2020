@@ -2,7 +2,7 @@
 
 This is the [course website](https://annazhang1998.github.io/PKUdmg2020/) of the PKU summer school on **Statistical Demography**.
 
-The lectures are **9:00-12:00 on July 6-17, 2020**.
+The lectures are **9:00-12:00 on July 6-17 (Monday-Friday), 2020**.
 
 The lectures will be **in English**.
 
@@ -21,25 +21,25 @@ Press, 2018).
 
 ## Schedule & Organization
 
-Lectures will take place from 9:00-12:00 every day Monday-Friday, leaving the afternoons to review the
+Lectures will take place from **9:00-12:00 every Monday-Friday**, leaving the afternoons to review the
 material, do exercises and work in groups. We will alternate between lectures and computer
 labs. The computer labs give students the opportunity to put the theory into practice.
 
 ## Syllabus
 
-1. **July 6** Basic concepts of demography.
-2. **July 7** Review of Bayesian statistics and Markov chain Monte Carlo.
-3. **July 8** Introduction to probabilistic population projections
-4. **July 9** Probabilistic projection of fertility
-5. **July 10** Probabilistic projection of life expectancy
-6. **July 11** Probabilistic Population Projection
-7. **July 12** Generating and visualizing probabilistic population projections using the bayesPop R
+1. Basic concepts of demography.
+2. Review of Bayesian statistics and Markov chain Monte Carlo.
+3. Introduction to probabilistic population projections
+4. Probabilistic projection of fertility
+5. Probabilistic projection of life expectancy
+6. Probabilistic Population Projection
+7. Generating and visualizing probabilistic population projections using the bayesPop R
 package
-8. **July 13** Probabilistic migration projection
-9. **July 14** Subnational probabilistic population projections
-10. **July 15** Bayesian population reconstruction
-11. **July 16** Modeling mortality (Prof. Ting Li)
-12. **July 17** Inferring Demographic Arrays and Demographic Accounts (Prof. Junni Zhang)
+8. Probabilistic migration projection
+9. Subnational probabilistic population projections
+10. Bayesian population reconstruction
+11. Modeling mortality (Prof. Ting Li)
+12. Inferring Demographic Arrays and Demographic Accounts (Prof. Junni Zhang)
 
 ## Prerequisites
 
