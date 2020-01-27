@@ -4,11 +4,11 @@ This is the [course website](https://annazhang1998.github.io/PKUdmg2020/) of the
 
 The lectures are **9:00-12:00 on July 6-17 (Monday-Friday), 2020**.
 
-To practise proposed algorithms, you need to bring your own labtop, [with R installed](https://rstudio.com/products/rstudio/download/#download).
+In order to practise proposed algorithms, please bring your own labtop and [install R] (https://rstudio.com/products/rstudio/download/#download) in advance.
 
 The lectures will be **in English**.
 
-You may visit our [repository on github ``PKUdmg2020``](https://github.com/annazhang1998/PKUdmg2020)  to get the files and codes for the course.
+On our [repository on github ``PKUdmg2020``](https://github.com/annazhang1998/PKUdmg2020)  , you can get more files and codes for the course.
  
 ## Course Information
 The courses will be given by [**Prof. Adrian Raftery**](https://www.stat.washington.edu/raftery/), [**Prof. Junni Zhang**](http://scholar.pku.edu.cn/jnzhang/home) and [**Prof. Ting Li**](http://ssps.ruc.edu.cn/index.php?s=/Index/teacher_cont/cid/8/teaid/41.html)  at Peking University.
@@ -16,10 +16,9 @@ The courses will be given by [**Prof. Adrian Raftery**](https://www.stat.washing
 - **Adrian Raftery** is the Boeing International Professor of Statistics and Sociology at the
 University of Washington in Seattle, USA, and a member of the US National Academy of
 Sciences. He is the leader of the [Bayesian Population research group](http://bayespop.csss.washington.edu) that developed many of the methods to be taught in the course .
-- **Junni Zhang** is an Associate Professor of Statistics, National School of Development, Peking
-University, and the coauthor of Bayesian Demographic Estimation and Forecasting (CRC
+- **Junni Zhang** is an Associate Professor of Statistics at *National School of Development, Peking University*, and the coauthor of Bayesian Demographic Estimation and Forecasting (CRC
 Press, 2018).
-- **Ting Li** is an Associate Professor of Demography at the Center for Population and Development Studies, Renmin University of China.
+- **Ting Li** is an Associate Professor of Demography at *the Center for Population and Development Studies, Renmin University of China*.
 
 ## Schedule & Organization
 
@@ -37,6 +36,7 @@ labs. The computer labs give students the opportunity to put the theory into pra
 6. Probabilistic Population Projection
 7. Generating and visualizing probabilistic population projections using the bayesPop R
 package
+
 **Week 2 (July 13-17): Advanced topics in Statistical Demography**
 8. Modeling mortality (by Prof. Ting Li)
 9. Probabilistic migration projection
