@@ -16,8 +16,7 @@ The courses will be given by [**Prof. Adrian Raftery**](https://www.stat.washing
 - **Adrian Raftery** is the Boeing International Professor of Statistics and Sociology at the
 University of Washington in Seattle, USA, and a member of the US National Academy of
 Sciences. He is the leader of the [Bayesian Population research group](http://bayespop.csss.washington.edu) that developed many of the methods to be taught in the course .
-- **Junni Zhang** is an Associate Professor of Statistics at *National School of Development, Peking University*, and the coauthor of Bayesian Demographic Estimation and Forecasting (CRC
-Press, 2018).
+- **Junni Zhang** is an Associate Professor of Statistics at *National School of Development, Peking University*, and the coauthor of Bayesian Demographic Estimation and Forecasting (CRC Press, 2018).
 - **Ting Li** is an Associate Professor of Demography at *the Center for Population and Development Studies, Renmin University of China*.
 
 ## Schedule & Organization
@@ -28,21 +27,21 @@ labs. The computer labs give students the opportunity to put the theory into pra
 
 ## Syllabus
 **Week 1 (July 6-10): Introduction to Statistical Demography**
-1. Basic concepts of demography.
-2. Review of Bayesian statistics and Markov chain Monte Carlo.
-3. Introduction to probabilistic population projections
-4. Probabilistic projection of fertility
-5. Probabilistic projection of life expectancy
-6. Probabilistic Population Projection
-7. Generating and visualizing probabilistic population projections using the bayesPop R
+Topic 1: Basic concepts of demography.
+Topic 2: Review of Bayesian statistics and Markov chain Monte Carlo.
+Topic 3: Introduction to probabilistic population projections
+Topic 4: Probabilistic projection of fertility
+Topic 5: Probabilistic projection of life expectancy
+Topic 6: Probabilistic Population Projection
+Topic 7: Generating and visualizing probabilistic population projections using the bayesPop R
 package
 
 **Week 2 (July 13-17): Advanced topics in Statistical Demography**
-8. Modeling mortality (by Prof. Ting Li)
-9. Probabilistic migration projection
-10. Subnational probabilistic population projections
-11. Bayesian population reconstruction
-12. Inferring Demographic Arrays and Demographic Accounts (by Prof. Junni Zhang)
+Topic 8: Modeling mortality (by Prof. Ting Li)
+Topic 9: Probabilistic migration projection
+Topic 10: Subnational probabilistic population projections
+Topic 11: Bayesian population reconstruction
+Topic 12: Inferring Demographic Arrays and Demographic Accounts (by Prof. Junni Zhang)
 
 ## Prerequisites
 
