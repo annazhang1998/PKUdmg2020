@@ -4,11 +4,11 @@ This is the [course website](https://annazhang1998.github.io/PKUdmg2020/) of the
 
 The lectures are **9:00-12:00 on July 6-17 (Monday-Friday), 2020**.
 
-In order to practise proposed algorithms, please bring your own labtop and [install R](https://rstudio.com/products/rstudio/download/#download) in advance.
+To practise proposed algorithms, please bring your own labtop and [install R](https://rstudio.com/products/rstudio/download/#download) in advance.
 
 The lectures will be **in English**.
 
-On our [repository on github ``PKUdmg2020``](https://github.com/annazhang1998/PKUdmg2020)  , you can get more files and codes for the course.
+On our [repository on github ``PKUdmg2020``](https://github.com/annazhang1998/PKUdmg2020)  , you can get more files and codes of the course.
  
 ## Course Information
 The courses will be given by [**Prof. Adrian Raftery**](https://www.stat.washington.edu/raftery/), [**Prof. Junni Zhang**](http://scholar.pku.edu.cn/jnzhang/home) and [**Prof. Ting Li**](http://ssps.ruc.edu.cn/index.php?s=/Index/teacher_cont/cid/8/teaid/41.html)  at Peking University.
@@ -27,21 +27,21 @@ labs. The computer labs give students the opportunity to put the theory into pra
 
 ## Syllabus
 **Week 1 (July 6-10): Introduction to Statistical Demography**
-Topic 1: Basic concepts of demography.
-Topic 2: Review of Bayesian statistics and Markov chain Monte Carlo.
-Topic 3: Introduction to probabilistic population projections
-Topic 4: Probabilistic projection of fertility
-Topic 5: Probabilistic projection of life expectancy
-Topic 6: Probabilistic Population Projection
-Topic 7: Generating and visualizing probabilistic population projections using the bayesPop R
+- Topic 1: Basic concepts of demography.
+- Topic 2: Review of Bayesian statistics and Markov chain Monte Carlo.
+- Topic 3: Introduction to probabilistic population projections
+- Topic 4: Probabilistic projection of fertility
+- Topic 5: Probabilistic projection of life expectancy
+- Topic 6: Probabilistic Population Projection
+- Topic 7: Generating and visualizing probabilistic population projections using the bayesPop R
 package
 
 **Week 2 (July 13-17): Advanced topics in Statistical Demography**
-Topic 8: Modeling mortality (by Prof. Ting Li)
-Topic 9: Probabilistic migration projection
-Topic 10: Subnational probabilistic population projections
-Topic 11: Bayesian population reconstruction
-Topic 12: Inferring Demographic Arrays and Demographic Accounts (by Prof. Junni Zhang)
+- Topic 8: Modeling mortality (by Prof. Ting Li)
+- Topic 9: Probabilistic migration projection
+- Topic 10: Subnational probabilistic population projections
+- Topic 11: Bayesian population reconstruction
+- Topic 12: Inferring Demographic Arrays and Demographic Accounts (by Prof. Junni Zhang)
 
 ## Prerequisites
 
