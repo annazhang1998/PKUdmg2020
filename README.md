@@ -4,9 +4,11 @@ This is the [course website](https://annazhang1998.github.io/PKUdmg2020/) of the
 
 The lectures are **9:00-12:00 on July 6-17 (Monday-Friday), 2020**.
 
+To practise proposed algorithms, you need to bring your own labtop, [with R installed](https://rstudio.com/products/rstudio/download/#download).
+
 The lectures will be **in English**.
 
-You may visit our [repository on github](https://github.com/annazhang1998/PKUdmg2020)  ``PKUdmg2020`` to get the files and codes for the course.
+You may visit our [repository on github ``PKUdmg2020``](https://github.com/annazhang1998/PKUdmg2020)  to get the files and codes for the course.
  
 ## Course Information
 The courses will be given by [**Prof. Adrian Raftery**](https://www.stat.washington.edu/raftery/), [**Prof. Junni Zhang**](http://scholar.pku.edu.cn/jnzhang/home) and [**Prof. Ting Li**](http://ssps.ruc.edu.cn/index.php?s=/Index/teacher_cont/cid/8/teaid/41.html)  at Peking University.
@@ -26,7 +28,7 @@ material, do exercises and work in groups. We will alternate between lectures an
 labs. The computer labs give students the opportunity to put the theory into practice.
 
 ## Syllabus
-
+**Week 1 (July 6-10): Introduction to Statistical Demography**
 1. Basic concepts of demography.
 2. Review of Bayesian statistics and Markov chain Monte Carlo.
 3. Introduction to probabilistic population projections
@@ -35,11 +37,12 @@ labs. The computer labs give students the opportunity to put the theory into pra
 6. Probabilistic Population Projection
 7. Generating and visualizing probabilistic population projections using the bayesPop R
 package
-8. Probabilistic migration projection
-9. Subnational probabilistic population projections
-10. Bayesian population reconstruction
-11. Modeling mortality (Prof. Ting Li)
-12. Inferring Demographic Arrays and Demographic Accounts (Prof. Junni Zhang)
+**Week 2 (July 13-17): Advanced topics in Statistical Demography**
+8. Modeling mortality (by Prof. Ting Li)
+9. Probabilistic migration projection
+10. Subnational probabilistic population projections
+11. Bayesian population reconstruction
+12. Inferring Demographic Arrays and Demographic Accounts (by Prof. Junni Zhang)
 
 ## Prerequisites
 
