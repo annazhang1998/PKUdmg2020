@@ -4,7 +4,7 @@ This is the [course website](https://annazhang1998.github.io/PKUdmg2020/) of the
 
 The lectures are **9:00-12:00 on July 6-17 (Monday-Friday), 2020**.
 
-To practise proposed algorithms, please bring your own labtop and [install R](https://rstudio.com/products/rstudio/download/#download) in advance.
+To practise proposed algorithms, please bring your own laptop and [install R](https://rstudio.com/products/rstudio/download/#download) in advance.
 
 The lectures will be **in English**.
 
