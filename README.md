@@ -13,9 +13,7 @@ On our [repository on github ``PKUdmg2020``](https://github.com/annazhang1998/PK
 ## Course Information
 The courses will be given by [**Prof. Adrian Raftery**](https://www.stat.washington.edu/raftery/), [**Prof. Junni Zhang**](http://scholar.pku.edu.cn/jnzhang/home) and [**Prof. Ting Li**](http://ssps.ruc.edu.cn/index.php?s=/Index/teacher_cont/cid/8/teaid/41.html)  at Peking University.
 
-- **Adrian Raftery** is the Boeing International Professor of Statistics and Sociology at the
-University of Washington in Seattle, USA, and a member of the US National Academy of
-Sciences. He is the leader of the [Bayesian Population research group](http://bayespop.csss.washington.edu) that developed many of the methods to be taught in the course .
+- **Adrian Raftery** is the Boeing International Professor of Statistics and Sociology at *University of Washington in Seattle, USA*, and a member of the US National Academy of Sciences. He is the leader of the [Bayesian Population research group](http://bayespop.csss.washington.edu) that developed many of the methods to be taught in the course .
 - **Junni Zhang** is an Associate Professor of Statistics at *National School of Development, Peking University*, and the coauthor of Bayesian Demographic Estimation and Forecasting (CRC Press, 2018).
 - **Ting Li** is an Associate Professor of Demography at *the Center for Population and Development Studies, Renmin University of China*.
 
