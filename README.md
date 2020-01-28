@@ -8,7 +8,7 @@ To practise proposed algorithms, please bring your own laptop and [install R](ht
 
 The lectures will be **in English**.
 
-On our [repository on github ``PKUdmg2020``](https://github.com/annazhang1998/PKUdmg2020)  , you can get more files and codes of the course.
+You can get more files and codes of the course on our [repository on github ``PKUdmg2020``](https://github.com/annazhang1998/PKUdmg2020) .
  
 ## Course Information
 The courses will be given by [**Prof. Adrian Raftery**](https://www.stat.washington.edu/raftery/), [**Prof. Junni Zhang**](http://scholar.pku.edu.cn/jnzhang/home) and [**Prof. Ting Li**](http://ssps.ruc.edu.cn/index.php?s=/Index/teacher_cont/cid/8/teaid/41.html)  at Peking University.
@@ -50,8 +50,8 @@ For those who may not be familiar with **Bayesian Statistics**, you can prepare 
 ## Resources
 
 ### Bayesian Statistics
-- Course by [Statistical Rethinking](https://xcelab.net/rm/statistical-rethinking/),[videos on youtube](https://www.youtube.com/playlist?list=PLDcUM9US4XdM9_N6XUUFrhghGJ4K25bFc), [videos available for mainland China IP](https://www.bilibili.com/video/av15997212?from=search&seid=2770670018250200202)
-- [Bayesian Scientific Computing](https://www.zabaras.com/bayesiancomputing) at University of Notre Dam
+- Course by [Statistical Rethinking](https://xcelab.net/rm/statistical-rethinking/), [videos on youtube](https://www.youtube.com/playlist?list=PLDcUM9US4XdM9_N6XUUFrhghGJ4K25bFc), [videos available for mainland China IP](https://www.bilibili.com/video/av15997212?from=search&seid=2770670018250200202).
+- [Bayesian Scientific Computing](https://www.zabaras.com/bayesiancomputing) at University of Notre Dame.
 
 ### R packages
 
